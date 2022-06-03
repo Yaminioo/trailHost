@@ -1,6 +1,6 @@
 {
     "hosting": {
-        "site": "freshbasket-org",
+        "site": "drone-photography",
         "public": "public",
         "ignore": [
             "firebase.json",
